@@ -47,9 +47,17 @@
 ![3д - принтер](https://github.com/verranove/3d-bridge/blob/master/3д-принтер.mp4)
 
 - **Видеопрезентация**: Показан мост в различных ракурсах.
-caption1 | caption2
-:-: | :-:
-<video src='финальный-проект.mp4' width=180/> | <video src='финальный-проект-2.mp4' width=180/>
+
+https://github.com/user-attachments/assets/819a05fb-c30c-473a-b180-9e8f21f18f30
+
+
+
+https://github.com/user-attachments/assets/faef609e-376e-4bf0-8967-fd8f8f379150
+
+
+
+https://github.com/user-attachments/assets/83c7efc9-c170-488a-b5a2-352d6758af1c
+
 
 
 - **Галерея изображений**: Картинки модели с разных ракурсов, включая детали.
