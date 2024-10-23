@@ -48,15 +48,16 @@
 
 - **Видеопрезентация**: Показан мост в различных ракурсах.
 
-https://github.com/user-attachments/assets/819a05fb-c30c-473a-b180-9e8f21f18f30
+![3д - принтер](https://github.com/user-attachments/assets/819a05fb-c30c-473a-b180-9e8f21f18f30)
 
 
 
-https://github.com/user-attachments/assets/faef609e-376e-4bf0-8967-fd8f8f379150
+![3д - принтер](https://github.com/user-attachments/assets/faef609e-376e-4bf0-8967-fd8f8f379150)
 
 
 
-https://github.com/user-attachments/assets/83c7efc9-c170-488a-b5a2-352d6758af1c
+![3д - принтер](https://github.com/user-attachments/assets/83c7efc9-c170-488a-b5a2-352d6758af1c)
+
 
 
 
