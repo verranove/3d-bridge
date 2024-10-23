@@ -48,15 +48,15 @@
 
 - **Видеопрезентация**: Показан мост в различных ракурсах.
 
-![3д - принтер](https://github.com/user-attachments/assets/819a05fb-c30c-473a-b180-9e8f21f18f30)
+![мост на принтере](https://github.com/user-attachments/assets/819a05fb-c30c-473a-b180-9e8f21f18f30)
 
 
 
-![3д - принтер](https://github.com/user-attachments/assets/faef609e-376e-4bf0-8967-fd8f8f379150)
+![видео готового моста](https://github.com/user-attachments/assets/faef609e-376e-4bf0-8967-fd8f8f379150)
 
 
 
-![3д - принтер](https://github.com/user-attachments/assets/83c7efc9-c170-488a-b5a2-352d6758af1c)
+![видео готового моста - 2](https://github.com/user-attachments/assets/83c7efc9-c170-488a-b5a2-352d6758af1c)
 
 
 
